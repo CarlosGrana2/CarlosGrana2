@@ -1,8 +1,8 @@
  ## ¡Hey:wave:! Soy Carlos Granados 
  
 
-- 👨🏻‍💻 *Fullstack Developer con énfasis en FrontEnd* 
-- 🏅 *Especialista en Gerencia de Software
+- 👨🏻‍💻 *Fullstack Developer* 
+- 🏅 *Especialista en Gerencia de Software*
 
 ## Acerca de mi...
 
